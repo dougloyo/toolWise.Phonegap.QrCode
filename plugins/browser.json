@@ -36,6 +36,9 @@
     },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "net.toolwise.qrcode"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "net.toolwise.qrcode"
     }
   },
   "dependent_plugins": {
